@@ -11,8 +11,8 @@ deploy:
   provider: releases
   api_key: "${GH_TOKEN}"
   file:
-  - county-wordpress-theme.zip
-  - county-wordpress-theme.zip.sha256
+  - wsij-wordpress-theme.zip
+  - wsij-wordpress-theme.zip.sha256
   skip_cleanup: true
   on:
     tags: true
