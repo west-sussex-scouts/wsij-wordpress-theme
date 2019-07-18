@@ -1,8 +1,8 @@
 <div class="col-md-2-5 offset-md-1 sidebar">
     <div class="row join bg-scouts-yellow pl-4 pr-4 pt-4 pb-4">
-        <h4>Join Scouts today</h4>
+        <h4>Want to keep up to date?</h4>
         <p>
-            Aged 6+? Join Scouting today in just a few clicks. Start here.
+            Sign up to our mailing list to get the latest information.
         </p>
         <div class="m-auto">
             <a href="/?page_id=<?= get_option( "sfl_fom_target" ) ?>" id="sfl_fom"
