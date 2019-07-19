@@ -2,7 +2,7 @@
     <div class="row join bg-scouts-yellow pl-4 pr-4 pt-4 pb-4">
         <h4>Want to keep up to date?</h4>
         <p>
-            Sign up to our mailing list to get the latest information.
+            Sign up to our mailing list to get the latest news and information.
         </p>
         <div class="m-auto">
             <a href="/?page_id=<?= get_option( "sfl_fom_target" ) ?>" id="sfl_fom"
