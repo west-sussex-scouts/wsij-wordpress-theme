@@ -24,7 +24,7 @@
 </div>
 <div class="container welcome-section pt-4 pb-3">
     <div class="row">
-        <div class="col-md-7 col-sm-12">
+        <div class="col-md-12 col-sm-12">
             <h1><span class="scouts-blue"><?php echo get_bloginfo( 'name', 'raw' ) ?></span></h1>
             <?php while ( have_posts() ) : the_post(); ?>
 				<?php the_content(); ?>

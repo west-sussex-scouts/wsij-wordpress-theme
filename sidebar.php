@@ -1,4 +1,4 @@
-<div class="col-md-2-5 offset-md-1 sidebar">
+<div class="col-md-2 offset-md-1 sidebar">
     <div class="row join bg-scouts-yellow pl-4 pr-4 pt-4 pb-4">
         <h4>Want to keep up to date?</h4>
         <p>
